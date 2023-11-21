@@ -21,3 +21,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahincho&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 👨🏻‍💻 &nbsp;Technologies That I Know
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,py,c,cpp,java,maven,spring,angular,react,mysql,postgres,mongodb	,docker,androidstudio,kotlin&perline=14" />
+  </a>
+</p>
+
