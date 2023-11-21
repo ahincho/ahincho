@@ -24,9 +24,16 @@
 
 ### 👨🏻‍💻 &nbsp;Technologies That I Know
 
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap	,js,ts,git,github,py,c,cs,cpp,java,kotlin,gradle,maven,spring,angular,react,mysql,postgres,mongodb,postman,docker,vscode,idea,androidstudio&perline=13"/>
   </a>
 </p>
+-->
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
