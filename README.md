@@ -4,7 +4,7 @@
 **ahincho/ahincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Java, Spring Boot, MySQL, MongoDB and Docker
+- 🔭 I’m currently working on Java, Spring Boot, TypeScript, NodeJs, NestJs MySQL, MongoDB and Docker
 - 🌱 I’m currently learning Android Apps and Data Science
 - 👯 I’m looking to collaborate on Independent and Freelance Projects
 - 🤔 I’m looking for help with Angular and React
