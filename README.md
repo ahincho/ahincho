@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on Java, Spring Boot, TypeScript, NodeJs, NestJs, PostgreSQL, MySQL, MongoDB, Docker and AWS
-- 🌱 I’m currently learning Android Apps and Data Science
+- 🌱 I’m currently learning Frontend and Mobile (Native and Multiplatform) Development
 - 👯 I’m looking to collaborate on Independent and Freelance Projects
 - 🤔 I’m looking for help with Angular and React
 - 💬 Ask me about Java and Spring Boot
