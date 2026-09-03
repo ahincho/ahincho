@@ -1,17 +1,29 @@
-### Hi, I'm Angel 👋
+# Angel Eduardo Hincho Jove
 
-<!--
-**ahincho/ahincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**Systems Engineer** | Senior Full Stack & DevOps Engineer
+Arequipa, Peru · [ahincho.github.io](https://ahincho.github.io)
 
-- 🔭 I’m currently working on Java, Spring Boot, TypeScript, NodeJs, NestJs, PostgreSQL, MySQL, MongoDB, Docker and AWS
-- 🌱 I’m currently learning Frontend and Mobile (Native and Multiplatform) Development
-- 👯 I’m looking to collaborate on Independent and Freelance Projects
-- 🤔 I’m looking for help with Angular and React
-- 💬 Ask me about Java and Spring Boot
-- 📫 How to reach me: ahincho@unsa.edu.pe
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I have much more to learn than teach
+Backend-leaning full stack engineer. I build cloud-native systems end to end:
+distributed backends, the infrastructure that runs them, and the pipelines that
+ship them.
+
+### Recent work
+
+Built and operated a serverless field-sales platform for a Central American
+telecom operator, deployed across **4 countries and 12 environments**:
+
+- Node.js on AWS Lambda, infrastructure as code with AWS SAM — ~130 serverless
+  functions across 20 services
+- DynamoDB for operational state, PostgreSQL + PostGIS for geospatial workloads
+- Nuxt 3 / Vue 3 on web, Ionic Vue + Capacitor on mobile
+- GitHub Actions, CodeQL, automated multi-country deployments
+- Role-based access control backed by a policy engine
+
+### Open source
+
+My public repositories lean Java: Spring Boot, Quarkus and Keycloak —
+framework-agnostic Keycloak libraries, Quarkus extensions, and REST APIs with
+JWT and RBAC.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
